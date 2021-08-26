@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joshua-paragoso/resumestatic/css/main.5facb584.chunk.css",
+    "main.js": "/joshua-paragoso/resumestatic/js/main.02171535.chunk.js",
+    "main.js.map": "/joshua-paragoso/resumestatic/js/main.02171535.chunk.js.map",
+    "runtime-main.js": "/joshua-paragoso/resumestatic/js/runtime-main.4c02e279.js",
+    "runtime-main.js.map": "/joshua-paragoso/resumestatic/js/runtime-main.4c02e279.js.map",
+    "static/js/2.09fbdebb.chunk.js": "/joshua-paragoso/resumestatic/js/2.09fbdebb.chunk.js",
+    "static/js/2.09fbdebb.chunk.js.map": "/joshua-paragoso/resumestatic/js/2.09fbdebb.chunk.js.map",
+    "index.html": "/joshua-paragoso/resumeindex.html",
+    "precache-manifest.e890ac79d6f097a58358a521ed8f5a73.js": "/joshua-paragoso/resumeprecache-manifest.e890ac79d6f097a58358a521ed8f5a73.js",
+    "service-worker.js": "/joshua-paragoso/resumeservice-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/joshua-paragoso/resumestatic/css/main.5facb584.chunk.css.map",
+    "static/js/2.09fbdebb.chunk.js.LICENSE.txt": "/joshua-paragoso/resumestatic/js/2.09fbdebb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c02e279.js",
+    "static/js/2.09fbdebb.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.02171535.chunk.js"
+  ]
+}
